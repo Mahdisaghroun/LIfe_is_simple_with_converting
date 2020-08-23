@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: .
+
+Name: common
+Implementation-Title: FreeTTS core library
+
+Name: org.apache.log4j
+DynamicImport-Package: *
+Implementation-Vendor: "Apache Software Foundation"
+Implementation-Title: log4j
+Implementation-Version: 1.2.17
+
